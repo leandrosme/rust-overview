@@ -1,0 +1,1 @@
+/Users/leandrosantos/Documents/Developments/labs/rust-overview/2-creating_guess_game/guessing_game/target/debug/guessing_game: /Users/leandrosantos/Documents/Developments/labs/rust-overview/2-creating_guess_game/guessing_game/src/main.rs

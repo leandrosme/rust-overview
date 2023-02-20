@@ -27,3 +27,7 @@ To build:
 ```
   cargo build
 ```
+
+- Exist a convention in Rust that determines that all files names should separate with spare, for example: you_file_name.rs
+
+- We use ! always in final function that be major.
